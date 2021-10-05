@@ -19,6 +19,5 @@ public class Students implements Serializable {
 	private int rollno;
 	private String name;
 	private double phnno;
-	private long address;
 	
 }
